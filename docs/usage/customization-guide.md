@@ -17,7 +17,7 @@ sort: 8
 
 ## Overview
 
-NFD provides multiple extension points for vendor and application specific
+NFD(Node Feature Discovery) provides multiple extension points for vendor and application specific
 labeling:
 
 - [`NodeFeature`](#nodefeature-custom-resource) (EXPERIMENTAL) objects can be
